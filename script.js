@@ -1,0 +1,1 @@
+document.getElementById("judulUtama").textContent = "Selamat Datang Siswa";
